@@ -1,1 +1,1 @@
-# stack-data-structure-stack-abstract-data-type-
+# Stack data structure (stack abstract data type)
